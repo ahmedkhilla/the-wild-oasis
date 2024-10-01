@@ -20,5 +20,5 @@ Payment Handling: Manage and track payments through the dashboard.
 - State Management: Implemented with React hooks for efficient state handling.
 - 
 you can try it [here](https://the-wild-oasis-eight-theta.vercel.app/login)
-using this email: ah@examole.com  password: 12345678
+using this email: ah@example.com  password: 12345678
 
